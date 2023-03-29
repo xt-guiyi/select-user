@@ -1,7 +1,9 @@
 # select-user
 跨部门人员选择器
+
 apiUrl.selectAcceptUserName接口返回人员数据格式
-res.list = [
+```
+ res.list = [
   {
     "orgType": 3,
     "mobileOne": "15625280140",
@@ -17,5 +19,7 @@ res.list = [
   },
   {...}
 ]
+```
+
 ![image](1.png)
 ![image](2.png)
